@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+    width: 100%;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container>h1 {
+    color: royalblue;
+}
